@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Rahul Ganne Banner">
+</p>
 <!-- ============================================= -->
 <!--            RAHUL GANNE GITHUB PROFILE         -->
 <!-- ============================================= -->
