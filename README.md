@@ -151,27 +151,25 @@ Cloud Data Platform
 
 
 ---
-
 # 📊 GitHub Dashboard
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulganne&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats-github-readme-stats-projects.vercel.app/api?username=Rahulganne&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulganne&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://streak-stats.demolab.com?user=Rahulganne&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulganne&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats-github-readme-stats-projects.vercel.app/api/top-langs/?username=Rahulganne&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulganne&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
+</p>---
 
 # 🐍 Contribution Activity
 
