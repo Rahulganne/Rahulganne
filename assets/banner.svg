@@ -464,3 +464,152 @@ AI
 
 
 </g>
+</svg>
+<!-- AI CORE STATUS -->
+
+<g font-family="JetBrains Mono, monospace">
+
+<rect
+x="610"
+y="380"
+width="380"
+height="55"
+rx="27"
+fill="#3FB950"
+fill-opacity="0.12"
+stroke="#3FB950"
+stroke-opacity="0.5"/>
+
+
+<circle
+cx="650"
+cy="407"
+r="8"
+fill="#3FB950">
+
+<animate
+attributeName="opacity"
+values="1;0.2;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<text
+x="680"
+y="415"
+font-size="22"
+fill="#3FB950">
+
+AI CORE : ONLINE
+
+</text>
+
+</g>
+
+
+<!-- System Indicators -->
+
+<g font-family="Segoe UI"
+font-size="16">
+
+<text
+x="420"
+y="455"
+fill="#8B949E">
+
+MODEL STATUS
+
+</text>
+
+
+<text
+x="420"
+y="478"
+fill="#3FB950">
+
+● ACTIVE
+
+</text>
+
+
+
+<text
+x="760"
+y="455"
+fill="#8B949E">
+
+CLOUD
+
+</text>
+
+
+<text
+x="760"
+y="478"
+fill="#3FB950">
+
+● CONNECTED
+
+</text>
+
+
+
+<text
+x="1080"
+y="455"
+fill="#8B949E">
+
+REPOSITORIES
+
+</text>
+
+
+<text
+x="1080"
+y="478"
+fill="#3FB950">
+
+● RUNNING
+
+</text>
+
+
+</g>
+
+
+<!-- Bottom Glow Line -->
+
+<path
+d="M250 490 H1350"
+stroke="#58A6FF"
+stroke-width="2"
+opacity="0.5">
+
+<animate
+attributeName="stroke-dashoffset"
+from="500"
+to="0"
+dur="5s"
+repeatCount="indefinite"/>
+
+</path>
+
+
+<!-- Footer -->
+
+<text
+x="800"
+y="495"
+text-anchor="middle"
+font-family="Segoe UI"
+font-size="16"
+fill="#8B949E">
+
+Building AI • Cloud • Data Solutions
+
+</text>
+
+
+</svg>
