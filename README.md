@@ -1,124 +1,238 @@
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Rahul Ganne Banner">
+<!-- ============================= -->
+<!--       RAHUL GANNE PROFILE     -->
+<!-- ============================= -->
+
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" />
 </p>
-<!-- ============================================= -->
-<!--            RAHUL GANNE GITHUB PROFILE         -->
-<!-- ============================================= -->
 
 <h1 align="center">
-  Hi 👋, I'm Rahul Ganne
+  Rahul Ganne
 </h1>
 
-<h3 align="center">
-🚀 AI Engineer • Cloud Engineer • Full Stack Developer • Data Engineering Enthusiast
-</h3>
+<p align="center">
+  <b>AI Engineer • Cloud Developer • Full Stack Developer</b>
+</p>
+
+<p align="center">
+  Building intelligent systems using AI, Cloud & Data 🚀
+</p>
+
+
+---
+
+## 🟢 AI System Status
+
+```yaml
+User:
+  Rahul Ganne
+
+Role:
+  AI Engineer
+
+Current Mission:
+  Building AI-powered applications
+
+Core Technologies:
+  Python | Gemini | LangChain | GCP | MERN
+
+Status:
+  ONLINE 🟢
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Applications;Generative+AI+Developer;Google+Cloud+Platform;MERN+Stack+Developer;Machine+Learning+Engineer;Always+Learning+New+Things" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,postgres,docker,gcp,git,github,linux&perline=7"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-Gemini-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Engineering-GCP-green?style=for-the-badge"/>
+
+</p>
+
+
 ---
 
-# 💻 AI Command Center
+# 🤖 AI & Cloud Focus
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║               AI OPERATING SYSTEM v2026             ║
-║                                                      ║
-╠══════════════════════════════════════════════════════╣
-║ User      : Rahul Ganne                             ║
-║ Role      : AI Engineer                             ║
-║ Status    : 🟢 ONLINE                               ║
-║ Focus     : Generative AI                           ║
-║ Cloud     : Google Cloud Platform                   ║
-║ Stack     : Python | React | Node | Java            ║
-║ Location  : India                                   ║
-║ Motto     : Build. Learn. Improve. Repeat.          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+🧠 Generative AI
+   └── LLMs • RAG • AI Agents • LangChain
+
+☁️ Cloud Engineering
+   └── GCP • BigQuery • Dataflow • Pub/Sub
+
+📊 Data Engineering
+   └── ETL • Pipelines • Analytics
+
+🌐 Full Stack
+   └── React • Node.js • MongoDB
 ```
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 Featured Projects
 
-```bash
-rahul@github:~$
 
-whoami
+<table>
 
-Rahul Ganne
+<tr>
 
-AI Engineer
+<td width="50%">
 
-Cloud Enthusiast
+## 🧠 DataSage AI
 
-Machine Learning Developer
+AI Data Science Tutor
 
-MERN Stack Developer
+✨ Gemini + LangChain  
+✨ Dataset Analysis  
+✨ ML Assistance  
+✨ AI Chat Interface  
 
-Data Engineering Learner
+</td>
 
-exit
+
+<td width="50%">
+
+## 🌍 AI Travel Planner
+
+Smart Travel Assistant
+
+✨ Gemini AI  
+✨ Maps Integration  
+✨ Trip Planning  
+✨ Recommendations  
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+## 💬 AI Chat Application
+
+Full Stack AI Assistant
+
+✨ React  
+✨ Node.js  
+✨ Gemini API  
+✨ Modern UI  
+
+</td>
+
+
+<td width="50%">
+
+## ☁️ GCP Data Pipeline
+
+Cloud Data Platform
+
+✨ BigQuery  
+✨ Dataflow  
+✨ Pub/Sub  
+✨ Cloud Storage  
+
+</td>
+
+</tr>
+
+</table>
+
+
+---
+
+# 📊 GitHub Dashboard
+
+
+<p align="center">
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=Rahulganne&show_icons=true&theme=tokyonight"/>
+
+
+<img height="160"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulganne&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulganne&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rahulganne/Rahulganne/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+✓ Generative AI Applications
+
+✓ Agentic AI
+
+✓ Retrieval Augmented Generation
+
+✓ Cloud Architecture
+
+✓ System Design
+
+✓ Open Source Development
 ```
 
 ---
 
-## 🚀 Current Focus
+# 🌐 Connect With Me
 
-- 🤖 Building AI-powered applications
-- ☁️ Learning advanced Google Cloud Platform
-- 📊 Data Engineering & Big Data
-- 🧠 Large Language Models (LLMs)
-- 🔗 LangChain & AI Agents
-- 🌐 MERN Stack Development
-- ⚡ Open Source Contributions
-
----
-
-## 🌟 Quick Facts
-
-- 🎓 Final Year Engineering Student
-- 💼 Interested in AI, Cloud & Full Stack
-- 🌱 Currently exploring RAG & Agentic AI
-- ⚡ Love building real-world software
-- 📫 Open to internships & full-time opportunities
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Rahulganne">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<!-- Replace with your portfolio when available -->
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Rahulganne&color=blue&style=for-the-badge)
 
 ---
 
-> *"Code with purpose. Build with curiosity. Learn continuously."*
+<p align="center">
+
+<b>
+"Building intelligent software, one idea at a time."
+</b>
+
+</p>
