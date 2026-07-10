@@ -1,2 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="1600"
+    height="500"
+    viewBox="0 0 1600 500"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<!-- Background -->
+
+<linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500">
+
+<stop offset="0%" stop-color="#070B17">
+
+<animate attributeName="stop-color"
+values="#070B17;#0F172A;#070B17"
+dur="10s"
+repeatCount="indefinite"/>
+
+</stop>
+
+<stop offset="100%" stop-color="#111827">
+
+<animate attributeName="stop-color"
+values="#111827;#1E293B;#111827"
+dur="10s"
+repeatCount="indefinite"/>
+
+</stop>
+
+</linearGradient>
+
+<!-- Aurora -->
+
+<linearGradient id="aurora1">
+
+<stop offset="0%" stop-color="#00E5FF" stop-opacity="0.25">
+
+<animate attributeName="offset"
+
+values="0;1;0"
+
+dur="12s"
+
+repeatCount="indefinite"/>
+
+</stop>
+
+<stop offset="50%" stop-color="#58A6FF" stop-opacity="0.15"/>
+
+<stop offset="100%" stop-color="#A371F7" stop-opacity="0.2"/>
+
+</linearGradient>
+
+<!-- Glow -->
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="6" result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<!-- Glass -->
+
+<filter id="glass">
+
+<feGaussianBlur stdDeviation="18"/>
+
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+
+width="1600"
+
+height="500"
+
+fill="url(#bg)"/>
+
+<!-- Aurora -->
+
+<ellipse
+
+cx="350"
+
+cy="100"
+
+rx="500"
+
+ry="180"
+
+fill="url(#aurora1)"
+
+opacity="0.6">
+
+<animateTransform
+
+attributeName="transform"
+
+type="translate"
+
+values="0 0;120 25;0 0"
+
+dur="14s"
+
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<ellipse
+
+cx="1300"
+
+cy="420"
+
+rx="450"
+
+ry="180"
+
+fill="url(#aurora1)"
+
+opacity="0.45">
+
+<animateTransform
+
+attributeName="transform"
+
+type="translate"
+
+values="0 0;-120 -20;0 0"
+
+dur="16s"
+
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- Stars -->
+
+<g fill="#58A6FF">
+
+<circle cx="80" cy="50" r="1.5">
+<animate attributeName="opacity"
+values="0.2;1;0.2"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="250" cy="120" r="2">
+<animate attributeName="opacity"
+values="1;0.1;1"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="430" cy="80" r="1.2">
+<animate attributeName="opacity"
+values="0.1;1;0.1"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="620" cy="180" r="2"/>
+<circle cx="780" cy="70" r="1"/>
+<circle cx="930" cy="140" r="2"/>
+<circle cx="1100" cy="90" r="1.5"/>
+<circle cx="1260" cy="200" r="2"/>
+<circle cx="1450" cy="70" r="1.8"/>
+<circle cx="1540" cy="150" r="2"/>
+
+</g>
+
+<!-- Floating particles -->
+
+<g>
+
+<circle cx="250" cy="420" r="4" fill="#58A6FF">
+
+<animate
+
+attributeName="cy"
+
+values="420;100;420"
+
+dur="14s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="600" cy="470" r="3" fill="#00E5FF">
+
+<animate
+
+attributeName="cy"
+
+values="470;140;470"
+
+dur="18s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="1300" cy="450" r="5" fill="#A371F7">
+
+<animate
+
+attributeName="cy"
+
+values="450;120;450"
+
+dur="16s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+</g>
+
+<!-- AI Neural Network -->
+
+<g stroke="#58A6FF" opacity="0.25">
+
+<line x1="180" y1="200" x2="330" y2="150"/>
+<line x1="330" y1="150" x2="480" y2="250"/>
+<line x1="480" y1="250" x2="620" y2="180"/>
+<line x1="620" y1="180" x2="760" y2="280"/>
+<line x1="760" y1="280" x2="930" y2="170"/>
+<line x1="930" y1="170" x2="1120" y2="240"/>
+<line x1="1120" y1="240" x2="1320" y2="170"/>
+
+</g>
+
+<!-- Nodes -->
+
+<g fill="#58A6FF">
+
+<circle cx="180" cy="200" r="5"/>
+<circle cx="330" cy="150" r="5"/>
+<circle cx="480" cy="250" r="5"/>
+<circle cx="620" cy="180" r="5"/>
+<circle cx="760" cy="280" r="5"/>
+<circle cx="930" cy="170" r="5"/>
+<circle cx="1120" cy="240" r="5"/>
+<circle cx="1320" cy="170" r="5"/>
+
+</g>
    
