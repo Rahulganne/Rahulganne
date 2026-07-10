@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -6,16 +6,16 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Rahulganne
@@ -24,8 +24,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
-      - name: Deploy snake animation
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Push snake files
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          message: "Generate contribution snake"
+          add: "dist"
