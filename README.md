@@ -180,9 +180,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulganne&l
 # 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rahulganne/Rahulganne/main/dist/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulganne/Rahulganne/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulganne/Rahulganne/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rahulganne/Rahulganne/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 # 🎯 Currently Exploring
