@@ -12,7 +12,6 @@
 <p align="center">
   <b>AI Engineer • Cloud Developer • Full Stack Developer</b>
 </p>
-
 <p align="center">
   Building intelligent systems using AI, Cloud & Data 🚀
 </p>
